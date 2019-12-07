@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#viewport {
+    width: 50%;
+    height: 500px;
+}
+
+canvas {
+    border: 1px solid black;
+}
